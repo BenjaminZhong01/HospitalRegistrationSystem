@@ -56,6 +56,18 @@
             <artifactId>spring-plugin-core</artifactId>
             <version>1.2.0.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>com.crygier</groupId>
+            <artifactId>SpringUtils</artifactId>
+            <version>1.0.1</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.woaizhuangbi</groupId>
+            <artifactId>spring-utils</artifactId>
+            <version>1.0.2-RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
         <!-- 服务调用feign -->
 <!--        <dependency>-->
 <!--            <groupId>org.springframework.cloud</groupId>-->
